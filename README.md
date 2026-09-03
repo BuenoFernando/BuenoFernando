@@ -35,12 +35,11 @@ Sistema desenvolvido para automatizar o controle de produtos e movimentações d
 **Principais recursos:**
 
 * Cadastro de produtos
-* Categorias, marcas e fornecedores
+* Categorias
 * Controle de estoque
 * Entradas, saídas e ajustes
 * Histórico de movimentações
 * Geração automática de códigos
-* Controle de usuários e permissões
 * UserForms
 * Automação com VBA
 
