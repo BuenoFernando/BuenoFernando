@@ -77,5 +77,6 @@ Meu objetivo é aplicar meus conhecimentos em projetos práticos, contribuir par
 
 ## 🔗 Contato
 
-💼 **LinkedIn:** [Fernando Bueno](https://www.linkedin.com/in/fernando-cesar-bueno/)
-🐙 **GitHub:** [BuenoFernando](https://github.com/BuenoFernando)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Bueno-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/fernando-cesar-bueno/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-BuenoFernando-black?style=for-the-badge\&logo=github)](https://github.com/BuenoFernando)
