@@ -2,27 +2,25 @@
 
 ### Engenheiro de Computação | Analista de Sistemas | Analista de TI
 
-Sou **Engenheiro de Computação**, formado em 2020, atualmente cursando **Pós-Graduação em Engenharia de Software**.
+Sou **Engenheiro de Computação**, formado em 2020, e atualmente curso **Pós-Graduação em Engenharia de Software**.
 
-Estou em transição profissional para a área de Tecnologia, com interesse principalmente em **Análise de Sistemas, Análise de TI, Automação, Dados e Desenvolvimento de Software**.
+Estou em transição profissional para a área de Tecnologia, com interesse em **Análise de Sistemas, Análise de TI, Processos, Dados, Automação e Desenvolvimento de Software**.
 
-Tenho conhecimentos em programação, banco de dados, análise de sistemas e desenvolvimento de soluções utilizando Excel, VBA, Power BI, Python e SQL.
+Tenho experiência prática no desenvolvimento de projetos utilizando **Python, SQL, SQLite, Excel, VBA e Power BI**, além de conhecimentos em lógica de programação, banco de dados e engenharia de software.
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+## 💻 Tecnologias
 
-* 🐍 Python
-* 🗄️ SQL / MySQL
-* 📊 Power BI
-* 📈 Microsoft Excel / Excel Avançado
-* ⚙️ VBA
-* 💻 C / C# / Visual Basic
-* 🧩 Análise de Sistemas
-* 🔢 Algoritmos e Lógica de Programação
-* 🏗️ Engenharia de Software
-* 🔄 Automação de Processos
-* 🗃️ Banco de Dados
+🐍 **Python**
+🗄️ **SQL | SQLite | MySQL**
+📊 **Power BI**
+📈 **Excel | Excel Avançado | VBA**
+💻 **C | C# | Visual Basic**
+🧩 **Análise de Sistemas**
+🔢 **Algoritmos e Lógica de Programação**
+🏗️ **Engenharia de Software**
+⚙️ **Automação de Processos**
 
 ---
 
@@ -30,26 +28,19 @@ Tenho conhecimentos em programação, banco de dados, análise de sistemas e des
 
 ### 📦 Sistema de Controle de Estoque — Excel/VBA
 
-Sistema desenvolvido para automatizar o controle de produtos e movimentações de estoque.
+Sistema para gerenciamento de produtos, fornecedores, entradas, saídas e movimentações de estoque, com automações desenvolvidas em VBA.
 
-**Principais recursos:**
+### 🛒 Sistema de Cadastro e Consulta de Produtos — Python
 
-* Cadastro de produtos
-* Categorias
-* Controle de estoque
-* Entradas, saídas e ajustes
-* Histórico de movimentações
-* Geração automática de códigos
-* UserForms
-* Automação com VBA
+Aplicação desktop desenvolvida em **Python + SQLite + Tkinter**, com cadastro, consulta e gerenciamento de produtos.
 
-### 📊 Sistema Financeiro e Dashboard — Excel/VBA + Power BI
+### 📊 Automação de Relatório de Vendas — Python + Excel
 
-Projeto em desenvolvimento para controle financeiro e análise de indicadores, utilizando automação em Excel/VBA e visualização de dados no Power BI.
+Projeto de automação para criação, validação e análise de dados de vendas, com geração de relatórios e indicadores em Excel.
 
-### 🐍 Sistema de Clientes e Vendas — Python + SQL/MySQL
+### 🎫 Sistema de Controle de Chamados de TI — Python
 
-Projeto em desenvolvimento para gerenciamento de clientes, produtos e vendas, utilizando Python, banco de dados MySQL e consultas SQL.
+Sistema desktop desenvolvido em **Python + SQLite + Tkinter + SQL** para cadastro, acompanhamento, consulta, gerenciamento e geração de relatórios de chamados de TI.
 
 ---
 
@@ -61,27 +52,30 @@ Projeto em desenvolvimento para gerenciamento de clientes, produtos e vendas, ut
 
 ---
 
-## 📚 Formação complementar
+## 📚 Formação Complementar
 
 * Análise Estruturada de Sistemas — Fundação Bradesco
+* Excel Avançado — Fundação Bradesco
 * Elementos de Programação — Brasil Mais TI
 * Algoritmos — Brasil Mais TI
 * SQL — Softblue
 * Lógica de Programação — Softblue
-* Excel Avançado — Fundação Bradesco
 * Python para Análise de Dados — Data Science Academy
 * Microsoft Power BI para Data Science — Data Science Academy
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎯 Objetivo Profissional
 
-Busco oportunidades na área de Tecnologia, especialmente como:
+Busco oportunidades na área de Tecnologia, especialmente em:
 
 **Analista de Sistemas | Analista de TI | Analista de Processos | Dados e Automação | Desenvolvimento de Software**
 
-Estou constantemente desenvolvendo projetos práticos para aprimorar meus conhecimentos e construir um portfólio profissional.
+Meu objetivo é aplicar meus conhecimentos em projetos práticos, contribuir para a melhoria de processos e continuar evoluindo profissionalmente na área de Tecnologia.
 
 ---
 
-📫 **Vamos nos conectar e trocar conhecimentos sobre Tecnologia!**
+## 🔗 Contato
+
+💼 **LinkedIn:** [Fernando Bueno](https://www.linkedin.com/in/fernando-cesar-bueno/)
+🐙 **GitHub:** [BuenoFernando](https://github.com/BuenoFernando)
